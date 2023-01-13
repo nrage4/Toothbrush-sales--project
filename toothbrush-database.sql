@@ -1,0 +1,1 @@
+SELECT * FROM toothbrush_database.toothbrush_orders;
